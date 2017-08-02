@@ -2,6 +2,9 @@
 .post {
   font-family: sans-serif;
   width: 50%;
+  margin-top: 0;
+  margin-bottom: 20px;
+
 }
 h2.post {
   color: #4286f4;
